@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://wq521.github.io/sitemap.xml
