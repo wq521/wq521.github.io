@@ -3,16 +3,44 @@
   
   <url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2019-09-09T23:19:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2019-09-09/pk61/</loc>
+    <lastmod>2019-09-09T23:19:31+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2019-09-09T23:19:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2019-09-09T23:19:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2019-09-09T23:19:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/%E5%A4%96%E8%AE%BE/</loc>
+    <lastmod>2019-09-09T23:19:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%E9%94%AE%E7%9B%98/</loc>
+    <lastmod>2019-09-09T23:19:31+08:00</lastmod>
     <priority>0</priority>
   </url>
   
