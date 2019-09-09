@@ -5,20 +5,10 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on ever</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 09 Sep 2019 00:06:33 +0800</lastBuildDate>
+    <language>zh-cn</language>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>2019 09 09 My</title>
-      <link>http://localhost:1313/post/my/</link>
-      <pubDate>Mon, 09 Sep 2019 00:06:33 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/my/</guid>
-      <description>窗挡住月色 贪恋的交集 在浮语虚词中交映 忙碌的身影 慢慢的长夜 去匆匆地留下感情 神色太慌张 你眼神逃避 却如此地令人着迷 为何总留恋这种 暧昧的迷离 曾经多少</description>
-    </item>
     
   </channel>
 </rss>
